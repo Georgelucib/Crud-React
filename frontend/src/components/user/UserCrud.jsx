@@ -8,7 +8,10 @@ const headerProps = {
     subtitle: 'Cadastro de usuários: Incluir, Listar, Alterar e Excluir'
 }
 
-const baseUrl = 'http://localhost:3001/users'
+const baseUrl = 'https://georgelucib.github.io/api/db.json'
+
+
+  
 const initialState = {
     user: { name:'', email: ''},
     list: []

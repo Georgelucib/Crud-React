@@ -1,3 +1,9 @@
 {
-  "Users": []
+  "Users": [
+    {
+      "name": "George Luciano de Barros Asevedo",
+      "email": "teste@gmail.com",
+      "id": 1
+    }
+  ]
 }
